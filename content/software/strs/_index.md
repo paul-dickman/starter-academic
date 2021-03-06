@@ -44,7 +44,7 @@ Running `survival.do` produces life table estimates of relative survival stratif
 
 ## History
 
-Version history can be found [here]({{< ref "/software/strs/history/history.md" >}}).
+Version history can be found [here](/software/strs/history/history/).
 
 `strs` can be updated using the `adoupdate` command. 
 
@@ -55,12 +55,10 @@ If you use this package, please cite the associated paper in The [Stata Journal]
 > Paul W. Dickman & Enzo Coviello, 2015. Estimating and modeling relative survival, The Stata Journal, StataCorp LP, vol. 15(1), pages 186-215.
 
 ## Examples
-- [Illustration of the algorithm used by strs]({{< ref "/software/strs/life_table_algorithm.md" >}})
-- [Life table estimation of relative survival (Ederer II) with strs]({{< ref "/software/strs/survival.md" >}})
-- [Modelling excess mortality using Poisson regression]({{< ref "/software/strs/modelling_poisson.md" >}})
-- [Brenner approach to age-standardisation (Pohar Perme estimator)]({{< ref "/software/strs/age_standardised_net_survival.md" >}})
+- [Illustration of the algorithm used by strs](/software/strs/life_table_algorithm/)
+- [Life table estimation of relative survival (Ederer II) with strs](/software/strs/survival/)
+- [Modelling excess mortality using Poisson regression](/software/strs/modelling_poisson/)
+- [Brenner approach to age-standardisation (Pohar Perme estimator)](/software/strs/age_standardised_net_survival/)
 
-
-
-
+## Extended index (with summary of each page)
 
