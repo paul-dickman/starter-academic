@@ -8,9 +8,9 @@ image = ""
 caption = ""
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 This is work in progress. 
-{{% /alert %}}
+{{% /callout %}}
 
 Code comparing the estimates from strs, stns, and stns is available for two data sets:
 
