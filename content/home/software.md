@@ -16,11 +16,11 @@ weight = 30
 
 I have co-authored, with Enzo Coviello, Stata commands for estimating and modelling relative survival. Enzo is responsible for all of the nice code.
 
-- [**strs**]({{< ref "/software/strs/strs.md" >}}) - estimating and modelling relative survival
-- [**stnet**]({{< ref "/software/stnet/stnet.md" >}}) - estimating relative survival
+- [**strs**](/software/strs/) - estimating and modelling relative survival
+- [**stnet**](/software/stnet/) - estimating relative survival
 
 Some [Stata tutorials](/software/stata/), most of which are about survival analysis
 
-SAS code for [estimating and modelling relative survival]({{< ref "/software/sas/sas.md" >}}). I wrote this code in the 1990s and have since moved from SAS to Stata, so this code is not maintained.
+SAS code for [estimating and modelling relative survival](/software/sas/). I wrote this code in the 1990s and have since moved from SAS to Stata, so this code is not maintained.
 
-Some [SAS tips and tricks](/sastips/) (primarily on data management)
+Some [SAS tips and tricks](http://pauldickman.com/sastips/) (primarily on data management)

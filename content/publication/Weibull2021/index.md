@@ -1,12 +1,12 @@
 ---
-title: "An example conference paper"
+title: "From Caroline Weibull's doctoral thesis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Caroline Weibull
 
 # Author notes (optional)
 author_notes:
@@ -23,16 +23,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: As cancer patient survival improves, late effects from treatment are becoming the next clinical challenge. Chemotherapy and radiotherapy, for example, potentially increase the risk of both morbidity and mortality from second malignancies and cardiovascular disease. To provide clinically relevant population-level measures of late effects, it is of importance to (1) simultaneously estimate the risks of both morbidity and mortality, (2) partition these risks into the component expected in the absence of cancer and the component due to the cancer and its treatment, and (3) incorporate the multiple time scales of attained age, calendar time, and time since diagnosis. Multistate models provide a framework for simultaneously studying morbidity and mortality, but do not solve the problem of partitioning the risks. However, this partitioning can be achieved by applying a relative survival framework, allowing us to directly quantify the excess risk. This article proposes a combination of these two frameworks, providing one approach to address (1) to (3). Using recently developed methods in multistate modeling, we incorporate estimation of excess hazards into a multistate model. Both intermediate and absorbing state risks can be partitioned and different transitions are allowed to have different and/or multiple time scales. We illustrate our approach using data on Hodgkin lymphoma patients and excess risk of diseases of the circulatory system, and provide user-friendly Stata software with accompanying example code.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A multistate model with excess risks and multiple timescales.
 
 tags: []
 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.8894'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
