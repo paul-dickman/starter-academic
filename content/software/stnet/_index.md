@@ -25,7 +25,8 @@ If you use this package, please cite the associated paper in The [Stata Journal]
 > Enzo Coviello, Karri Seppä, Paul W. Dickman, Arun Pokhrel, 2015. Estimating net survival using a life-table approach, The Stata Journal, StataCorp LP, vol. 15(1), pages 173-185.
 
 ## Examples
-- [Comparison of life table estimators of relative/net survival]({{< ref "/software/stnet/comparestrs.md" >}})
+- [Comparison of Ederer II and Pohar Perme with stnet and strs]({{< ref "/software/stnet/comparestrs.md" >}})
+- [Comparison of strs, stnet, and stns]({{< ref "/software/stnet/compare_stns.md" >}})
 
 
 
