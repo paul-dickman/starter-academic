@@ -5,7 +5,7 @@
 
 title: Paul W Dickman # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© 2021 Paul W Dickman'
+copyright: '© 2021 Paul W Dickman' # Footer text, e.g. '© 2021 Paul W Dickman'
 
 ############################
 ## LANGUAGE
