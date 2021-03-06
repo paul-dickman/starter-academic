@@ -46,9 +46,6 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.se/citations?user=AUVXIEYAAAAJ&hl
-- icon: github
-  icon_pack: fab
-  link: https://github.com/paul-dickman
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/paul-dickman-5bb47b44/
@@ -71,5 +68,3 @@ highlight_name: false
 ---
 
 I am Professor of Biostatistics at the Department of Medical Epidemiology and Biostatistics (MEB) at Karolinska Institutet in Stockholm, where I've been employed since March 1999. My primary research interests are developing and applying statistical methods for population-based studies of cancer patient survival, particularly the estimation and modeling of relative/net survival. I also have general interests in epidemiology, particularly cancer epidemiology. My MEB [home page](https://ki.se/en/people/paudic) contains details of my research. I am head of the [MEB Biostatistics group](https://ki.se/en/meb/meb-biostatistics-group) and a member of the [board](https://ki.se/en/about/board-of-karolinska-institutet) of Karolinska Institutet.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/cv_pauldickman.pdf" "newtab" >}}resumé{{< /staticref >}}.
