@@ -20,5 +20,5 @@ I have taught courses in England and Italy each summer for over 15 years. I will
 
 - 13-17 July 2020: ~~I will be teaching at the course [Cancer Survival: Principles, Methods and Applications](https://www.lshtm.ac.uk/study/courses/short-courses/cancer-survival) at the London School of Hygiene & Tropical Medicine.~~ Course cancelled due to covid-19 for both 2020 and 2021. We hope to return in 2022.
 
-I wrote a [blog post]({{< ref "/post/comparison-of-cancer-survival-courses.md" >}}) comparing the courses at the Veneto summer school and the London School of Hygiene & Tropical Medicine. 
+I wrote a [blog post](/post/comparison-of-cancer-survival-courses/) comparing the courses at the Veneto summer school and the London School of Hygiene & Tropical Medicine. 
 
