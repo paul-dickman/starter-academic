@@ -2,7 +2,7 @@
 title = "Modelling excess mortality using matched cohort data"
 date = 2020-11-26
 math = true
-draft = false
+draft = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
