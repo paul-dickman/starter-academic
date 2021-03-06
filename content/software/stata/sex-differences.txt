@@ -1,0 +1,35 @@
+
+// Model
+stpm2 yearspl* male agegrp2 agegrp3 agegrp4 stage2 stage3 subsite2 ///
+      subsite3 subsite4 stage2m stage3m, scale(h) df(5) eform ///
+      tvc(male yearspl*) dftvc(2)
+
+
+// marginal survival for females
+predict meansurv00 if male==0, meansurv timevar(temptime)
+
+
+// marginal survival for males 
+predict meansurv11 if male==1, meansurv timevar(temptime)
+
+
+
+// Population-averaged survival for females (standardised to total)
+predict marginal0, meansurv at(male 0 stage2m 0 stage3m 0) timevar(temptime)
+
+
+
+// Population-averaged survival for males (standardised to total)
+predict marginal1, meansurv at(male 1 stage2m = stage2 stage3m = stage3) timevar(temptime)
+
+
+
+// Survival for males if they had the covariate distribution of females
+// Survival that would be observed for females if they had the cancer-specific mortality of males  
+predict meansurv01 if male==0, meansurv at(male 1 stage2m = stage2 stage3m = stage3) timevar(temptime)
+
+
+
+// Survival for females if they had the covariate distribution of males
+// Survival that would be observed for males if they had the cancer-specific mortality of females  
+predict meansurv10 if male==1, meansurv at(male 0 stage2m 0 stage3m 0) timevar(temptime)
