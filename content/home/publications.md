@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
 title: Recent Publications
 subtitle: ''
@@ -27,16 +27,14 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+My publication list can be found in my [CV](/pdf/cv_pauldickman.pdf), [researcher ID](http://www.researcherid.com/rid/B-4572-2013), [PubMed](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&itool=pubmed_AbstractPlus&term=%22Dickman+PW%22%5BAuthor%5D), or [Google scholar](http://scholar.google.se/citations?user=AUVXIEYAAAAJ).
