@@ -27,7 +27,7 @@ main:
 #    weight: 50
   - name: CV
     url: pdf/cv_pauldickman.pdf
-    weight: 55
+    weight: 59
   - name: Contact
     url: '#contact'
     weight: 60
