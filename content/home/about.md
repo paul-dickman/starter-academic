@@ -1,21 +1,12 @@
----
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
++++
+# About/Biography widget.
+widget = "about"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear in.
 
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
+title = "Background"
 
 # Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
----
+# This should be the username of a profile in your `content/author/` folder.
+author = "admin"
++++

@@ -1,0 +1,8 @@
+Sitemap: http://www.pauldickman.com/sitemap.xml
+User-agent: *
+Disallow: /pdf/
+Disallow: /survival/handouts/
+Disallow: /survival/solutions/
+Disallow: /tips/
+
+

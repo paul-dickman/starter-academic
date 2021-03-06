@@ -1,0 +1,80 @@
+v 1.4.1
+d Files for survival analysis course
+d User-written commands must be downloaded separately
+d Paul Dickman (paul.dickman@ki.se)
+d Distribution-Date: 20180207
+
+f compare_cox_poisson.do
+f brv.dta                        
+f ivf.dta 
+f bcdata.dta                       
+f bladder.dta         
+f bladder_5year.dta         
+f melanoma.dta                   
+f colon.dta                      
+f colon_sample.dta               
+f ref.dta                        
+f diet.dta                       
+f popmort.dta
+f popmort_uk.dta
+f ew_breast.dta
+f Ovary_Cancer.dta
+f rott2.dta
+f expected.xls
+f labs.pdf
+f solutions/death_rates_Sweden_2011_from_mortality_org.txt
+f solutions/solutions.pdf
+f solutions/exercise100.xls
+f solutions/exercise200.xls
+f solutions/q101.do
+f solutions/q102.do
+f solutions/q103.do
+f solutions/q104.do
+f solutions/q110.do
+f solutions/q111.do
+f solutions/q112.do
+f solutions/q120.do
+f solutions/q121.do
+f solutions/q122.do
+f solutions/q123.do
+f solutions/q124.do
+f solutions/q125.do
+f solutions/q130.do
+f solutions/q131.do
+f solutions/q132.do
+f solutions/q133.do
+f solutions/q140.do
+f solutions/q150.do
+f solutions/q160.do
+f solutions/q170.do
+f solutions/q180.do
+f solutions/q181.do
+f solutions/q182.do
+f solutions/q200.do
+f solutions/q201.do
+f solutions/q202.do
+f solutions/q203.do
+f solutions/q204.do
+f solutions/q210.do
+f solutions/q211.do
+f solutions/q230.do
+f solutions/q231.do
+f solutions/q232.do
+f solutions/q240.do
+f solutions/q241.do
+f solutions/q242.do
+f solutions/q243.do
+f solutions/q250.do
+f solutions/q251.do
+f solutions/q260.do
+f solutions/q261.do
+f solutions/q280.do
+f solutions/q281.do
+f solutions/q282.do
+f solutions/q283.do
+f solutions/q284.do
+f solutions/q285.do
+f solutions/q286.do
+
+
+

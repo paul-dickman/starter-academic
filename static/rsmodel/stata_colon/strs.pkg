@@ -1,0 +1,24 @@
+v 1.4.3.0
+d strs: commands for estimating and modelling relative survival.
+d Paul Dickman and Enzo Coviello
+d Distribution-Date: 20200513
+d
+d See http://pauldickman.com/software/strs/strs/ for details.
+d See https://www.stata-journal.com/article.html?article=st0376
+
+f strs.ado
+f strs.hlp
+f strs.pdf
+f ht.ado
+f rs.ado
+f esteve.ado
+f colon.dta
+f melanoma.dta
+f popmort.dta
+f survival.do
+f models.do
+f survival_period.do
+f four_methods.do
+f age-std.do
+f pohar.do
+

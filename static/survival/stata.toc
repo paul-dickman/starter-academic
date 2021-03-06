@@ -1,0 +1,8 @@
+v 3
+d Files for survival analysis course
+d Paul Dickman (paul.dickman@ki.se)
+
+p course_files Primary files for survival analysis course
+p ms Multi-stata models
+p session19 London survival course session 19
+

@@ -82,7 +82,7 @@ You may ask, if the parameter estimates are the same then why not just use the w
 
 Hazard ratios are easier to interpret if one assumes they are constant over time (i.e., an assumption of proportional hazards), an assumption that is not always appropriate. For example, [Andreassen and colleagues](https://www.ncbi.nlm.nih.gov/pubmed/29635144) studied sex differences in bladder cancer survival and presented the following graph showing that the sex effect was not constant over follow-up.
 
-{{< figure src="/img/andreassen2018_fig2.png" title="Reproduction of figure 2 from Andreassen et al. Eur J Cancer 2018;95:52-58." numbered="false" >}}
+{{< figure src="/media/andreassen2018_fig2.png" title="Reproduction of figure 2 from Andreassen et al. Eur J Cancer 2018;95:52-58." numbered="false" >}}
 
 Such graphs are very easy to obtain after fitting a flexible parametric survival model (see example below). The interpetation of hazard ratios has been questioned (see Miguel Hernán's comments on [the hazards of hazard ratios](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3653612/)), but making an assumption they are constant over time is especially problematic. Hernán argues one should estimate standardised survival curves of the type we describe in [our tutorial](/software/stata/sex-differences-cox/).  
 

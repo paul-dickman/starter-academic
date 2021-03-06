@@ -1,0 +1,4 @@
+v 3
+d Stata programs by Paul Dickman Michael Hills, and Enzo Coviello
+
+p strs Programs for estimating and modelling relative survival

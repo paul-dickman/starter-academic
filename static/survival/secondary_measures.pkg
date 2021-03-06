@@ -1,0 +1,21 @@
+v 1.0
+d Extra files for London survival analysis course
+d User-written commands must be downloaded separately
+d Paul Dickman (paul.dickman@ki.se)
+d Distribution-Date: 20170502
+
+f melanoma.dta                   
+f colon.dta                      
+f popmort.dta
+f labs_secondary_measures.pdf
+f solutions/q250.do
+f solutions/q251.do
+f solutions/q260.do
+f solutions/q261.do
+f solutions/q282.do
+f solutions/q284.do
+f Lifetable_2013.dta
+f melanoma_2013.dta
+
+
+
