@@ -23,4 +23,4 @@ Some [Stata tutorials](/software/stata/), most of which are about survival analy
 
 SAS code for [estimating and modelling relative survival](/software/sas/). I wrote this code in the 1990s and have since moved from SAS to Stata, so this code is not maintained.
 
-Some [SAS tips and tricks](http://pauldickman.com/sastips/) (primarily on data management)
+Some [SAS tips and tricks](/software/sastips/) (primarily on data management)
