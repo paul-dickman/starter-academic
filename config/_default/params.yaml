@@ -75,8 +75,8 @@ copyright_license:
   enable: true
   allow_derivatives: true
   share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under version 3 of the GNU General Public License ([GPLv3](http://www.gnu.org/licenses/gpl-3.0.html))'
+  allow_commercial: true
+#  notice: 'This work is licensed under version 3 of the GNU General Public License ([GPLv3](http://www.gnu.org/licenses/gpl-3.0.html))'
 abstract_length: 135
 plugins_js: []
 avatar:
