@@ -21,12 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: paul.dickman@ki.se
-address:
-  house: Karolinska Institutet
-  street: Nobels väg 12A
-  city: Stockholm
-  country: Sweden
-  country_code: SE
 coordinates:
   latitude: '59.3486047428019'
   longitude: '18.025320592614076'
@@ -57,7 +51,7 @@ highlight_languages:
   - sas
 math: true
 diagram: true
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -73,16 +67,16 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
-  allow_derivatives: false
+  enable: true
+  allow_derivatives: true
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This work is licensed under version 3 of the GNU General Public License ([GPLv3](http://www.gnu.org/licenses/gpl-3.0.html))'
 abstract_length: 135
 plugins_js: []
 avatar:
@@ -119,7 +113,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '2'
+  provider: ''
   api_key: ''
   zoom: 15
 marketing:
