@@ -11,13 +11,13 @@ projects: []
 date: "2020-08-13"
 
 # Date updated
-lastmod: "2020-08-13"
+lastmod: "2021-03-07"
 
 # Is this an unpublished draft?
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
