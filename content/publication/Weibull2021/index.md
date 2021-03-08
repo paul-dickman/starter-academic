@@ -1,6 +1,6 @@
 ---
-title: "From Caroline Weibull's doctoral thesis"
-subtitle: "A multistate model incorporating estimation of excess hazards and multiple time scales"
+title: "Paper IV from Caroline Weibull's doctoral thesis"
+subtitle: "A multistate model incorporating estimation of excess hazards and multiple time scales (2021)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
