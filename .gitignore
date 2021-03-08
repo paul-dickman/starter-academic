@@ -8,3 +8,6 @@ jsconfig.json
 node_modules/
 content/video/interactions/interactions.mp4
 content/video/survival-intro/survival_intro.mp4
+
+# Local Netlify folder
+.netlify
