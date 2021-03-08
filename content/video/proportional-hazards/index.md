@@ -7,9 +7,9 @@ summary = "Understanmding the proportional hazards assumption. Testing for propo
 tags = ["Video","Survival","Cox"]
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 This video lecture is a work in progress (September 2020). The lecture notes and code are complete (see links below) but I haven't yet recorded the video.
-{{% /alert %}}
+{{% /callout %}}
 
 {{< video src="proportional_hazards.mp4" controls="yes" >}}
 
