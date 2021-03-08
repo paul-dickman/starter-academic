@@ -29,7 +29,7 @@ Those of us who develop software also need to improve. My SAS code and Stata com
 
 > It becomes easy to see, then, why fair and proper citation can be challenging, even though the vast majority of researchers have the best intentions. Still, it is crucial to address this gap, as proper credit encourages collaboration between people developing tools at different levels to ensure that robust, user-friendly tools ultimately come to light.  
 
-Software development also needs to be given more weight when evaluating academics for, e.g., research grants or promotion (at least in my field). My university has a [21-page document](https://ki.se/sites/default/files/qualifications_portfolio_-_instructions.pdf) describing how to document qualifications when applying for an academic position. Software development is never mentions; the closest we come is:
+Software development also needs to be given more weight when evaluating academics for, e.g., research grants or promotion (at least in my field). My university has a [21-page document](https://ki.se/en/about/qualifications-portfolio-for-teachers-and-researchers/) describing how to document qualifications when applying for an academic position. Software development is never mentions; the closest we come is:
 
 > *10.3 Product development:* Document any inventions or products, for example, instruments, diagnostic
 devices, analysis methods, etc., or services of your own that have been commercialised and brought to market. 
