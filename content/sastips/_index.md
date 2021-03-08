@@ -7,7 +7,7 @@ summary = "A collection of SAS tips and tricks"
 
 These pages listed here are based on SAS seminars I gave in 1999-2000, aimed at epidemiology doctoral students in my department. I no longer use SAS, and these files are not maintained or updated. The code is based on SAS version 6.
 
-My SAS code for estimating and modelling relative survival can be found [here](/software/sas/sas/)
+My SAS code for estimating and modelling relative survival can be found [here](/software/sas/)
 
 ## Index of SAS tips and tricks
 
