@@ -8,16 +8,16 @@ shortsummary = ""
 tags = ["SAS","SAStips"]
 +++
 
-<p>Swedish personal identification numbers (PNRs) comprise 10 digits (12 if century of
+Swedish personal identification numbers (PNRs) comprise 10 digits (12 if century of
 birth is included). The first 6 digits represent date of birth (YYMMDD), the ninth digit
 represents gender (even for females and odd for males), and the tenth digit is a check
-digit which can be constructed from the preceding nine digits.</p>
-<p>SAS code for verifying PNRs is shown below. This code can be downloaded <a href="../pnr_check.sas">here</a>.</p>
-<h3>Algorithm for calculating the check digit</h3>
-<p>First multiply each of the first nine digits in the PNR by the digits 2,1,2,1,2,1,2,1,2
-and calculate the cumulative sum of each of these 9 calculations. If the product results
-in a number greater than 10, then add the individual digits. For example, 9 times 2 = 18,
-so we add 9 (the sum of 1 and 8) to the cumulative sum in the example below. </p>
+digit which can be constructed from the preceding nine digits.
+SAS code for verifying PNRs is shown below. This code can be downloaded [here](pnr_check.sas).
+
+### Algorithm for calculating the check digit
+
+Consider the PNR 310317-099x. First multiply each of the first nine digits in the PNR by the digits 2,1,2,1,2,1,2,1,2 and calculate the cumulative sum of each of these 9 calculations. If the product results in a number greater than 10, then add the individual digits. For example, 9 times 2 = 18, so we add 9 (the sum of 1 and 8) to the cumulative sum in the example below.
+
 <table border="1" width="78%">
   <tr>
     <td width="8%" align="right">3</td>
@@ -56,11 +56,14 @@ so we add 9 (the sum of 1 and 8) to the cumulative sum in the example below. </p
     <td width="8%" align="right">37</td>
   </tr>
 </table>
-<p>In the example above, the cumulative sum is 37. The check digit is the number we would
+
+In the example above, the cumulative sum is 37. The check digit is the number we would
 have to add to the product sum in order to obtain a multiple of 10. In the above example,
 we would need to add 3, so the check digit is 3. If the cumulative sum is a multiple of 10
-then the check digit is 0.</p>
-<h3>SAS code for verifying the check digit</h3>
+then the check digit is 0.
+
+### SAS code for verifying the check digit
+
 ```sas
 /*******************************************
 PNR_CHK.SAS
@@ -70,7 +73,7 @@ in the PNR) is correct.
 It is assumed that PNR is a character
 variable of length 10.
 
-Paul Dickman (paul.dickman@mep.ki.se)
+Paul Dickman (paul.dickman@ki.se)
 September 1999
 *******************************************/
 
@@ -126,7 +129,8 @@ proc print data=pnr_chk;
 var pnr chk product sum corr_chk result;
 run;
 ```
-<h4>Stata code for verifying the check digit</h4>
+
+## Stata code for verifying the check digit
 Nicola Orsini and colleagues have written a Stata program, PNRCHECK, for 
 verifying the check digit which can be <a href="http://nicolaorsini.altervista.org/commands.htm">downloaded 
 from Nicola's web site</a>.
