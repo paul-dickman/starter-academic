@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-{{< dirlist path="/survival/" >}}
+{{< dirlist path="/data" >}}
