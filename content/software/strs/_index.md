@@ -6,9 +6,6 @@ author: Paul Dickman, Enzo Coviello
 summary: This page describes the Stata `strs` command and related files for estimating and modelling relative and survival.
 tags: ["strs","software","Stata"]
 math: true
-[header]
-image: ""
-caption: ""
 copyright_license:
   enable: false
 ---
