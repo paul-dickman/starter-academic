@@ -7,7 +7,7 @@ summary = "Introduction to survival analysis, Kaplan-Meier method, and the log r
 tags = ["Video","Kaplan-Meier","log-rank"]
 +++
 
-{{< youtube UimVvC29om4 >}}
+{{< youtube DK66XtzakHo >}}
 
 ### Lecture notes
 
