@@ -3,11 +3,11 @@ title = "Understanding interactions"
 subtile = ""
 date = 2020-10-17
 widgets = false  
-summary = "Introduction to understanding interaction effects. The lecture described how to Interpreting parameter estimates, in both main effects and interaction models, but with a specific emphasis on interactions. Examples use Cox regression, but the principles apply to all models."  
+summary = "Introduction to understanding interaction effects. The lecture describes how to interpret parameter estimates, in both main effects and interaction models, but with a specific emphasis on interactions. Examples use Cox regression, but the principles apply to all models."  
 tags = ["Video","Survival","Cox"]
 +++
 
-{{< video src="interactions.mp4" controls="yes" >}}
+{{< youtube mxS8YbA-Zyw >}}
 
 ### Lecture notes
 
