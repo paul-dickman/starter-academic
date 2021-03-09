@@ -1,6 +1,5 @@
-<!-- List refs to files in folder on path relative to ./static -->
-{{ $path := .Get "path" }}
-{{ $filepath := path.Join "/static" $path }}
+<!-- List refs to files in specified folder -->
+{{ $filepath := .Get "path" }}
 {{ $files := readDir $filepath }}
 
 {{ if (fileExists $filepath) }}
