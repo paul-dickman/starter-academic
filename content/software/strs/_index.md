@@ -1,15 +1,17 @@
-+++
-date = "2019-03-02"
-title = "strs: estimating and modelling relative/net survival"
-subtitle = "Paul Dickman, Enzo Coviello"
-author = "Paul Dickman, Enzo Coviello"
-summary = "This page describes the Stata `strs` command and related files for estimating and modelling relative and survival."
-tags = ["strs","software","Stata"]
-math = true
+---
+date: '2019-03-02'
+title: strs: estimating and modelling relative/net survival
+subtitle: Paul Dickman, Enzo Coviello
+author: Paul Dickman, Enzo Coviello
+summary: This page describes the Stata `strs` command and related files for estimating and modelling relative and survival.
+tags: ["strs","software","Stata"]
+math: true
 [header]
-image = ""
-caption = ""
-+++
+image: ""
+caption: ""
+copyright_license:
+  enable: false
+---
 
 {{% toc %}}
 
@@ -47,6 +49,14 @@ Running `survival.do` produces life table estimates of relative survival stratif
 Version history can be found [here](/software/strs/history/history/).
 
 `strs` can be updated using the `adoupdate` command. 
+
+## License
+
+`strs` is licensed under [the GNU General Public License](https://www.gnu.org/licenses/gpl.html)
+
+`strs` is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+`strs` is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See [the GNU General Public License](https://www.gnu.org/licenses/gpl.html) for more details.
 
 ## Suggested citation
 

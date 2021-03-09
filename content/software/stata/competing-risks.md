@@ -12,9 +12,9 @@ caption = ""
 
 The code used in this tutorial, along with links to the data, is available [here](http://pauldickman.com/software/stata/competing-risks.do).
 
-{{% alert note %}}
-This page shows the Stata code with only limited comments (April 2019). 
-{{% /alert %}}
+{{% callout note %}}
+This page shows the Stata code with only limited comments. 
+{{% /callout %}}
 
 ## Introduction
 
