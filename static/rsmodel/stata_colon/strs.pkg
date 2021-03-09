@@ -6,6 +6,7 @@ d
 d See http://pauldickman.com/software/strs/strs/ for details.
 d See https://www.stata-journal.com/article.html?article=st0376
 
+f license.txt
 f strs.ado
 f strs.hlp
 f strs.pdf
