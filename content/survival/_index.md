@@ -7,4 +7,5 @@ header:
   image: ""
 ---
 
-{{< dirlist path="/data" >}}
+{{< dirlist path="/" >}}
+
