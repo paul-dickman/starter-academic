@@ -1,6 +1,6 @@
 ---
 date: '2019-03-02'
-title: strs: estimating and modelling relative/net survival
+title: strs - estimating and modelling relative/net survival
 subtitle: Paul Dickman, Enzo Coviello
 author: Paul Dickman, Enzo Coviello
 summary: This page describes the Stata `strs` command and related files for estimating and modelling relative and survival.
