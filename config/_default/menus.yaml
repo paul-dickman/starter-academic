@@ -22,6 +22,9 @@ main:
   - name: Blog
     url: '#posts'
     weight: 56
+  - name: Video
+    url: 'video'
+    weight: 57
 #  - name: Publications
 #    url: '#featured'
 #    weight: 50

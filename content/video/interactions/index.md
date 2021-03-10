@@ -22,5 +22,5 @@ SAS: [interactions.sas](interactions.sas)
 R: [interactions.R](interactions.R)
 
 ### Other resources
-
-- Document on [Interpreting interactions in Stata](interaction_interpretation_stata.pdf)
+- Tutorial on [interpreting interactions in Stata](/software/stata/parameterising-interactions/)
+- PDF document on [Interpreting interactions in Stata](interaction_interpretation_stata.pdf)
