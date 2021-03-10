@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Paul W Dickman # Website name
-baseurl: 'www.mahelos.com' # Website URL
+baseurl: 'www.pauldickman.com' # Website URL
 copyright: '© 2021 Paul W Dickman' # Footer text
 
 ############################
