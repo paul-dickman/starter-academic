@@ -1,6 +1,6 @@
 +++
 date = "2019-03-02"
-lastmod = "2020-02-19"
+lastmod = "2021-03-11"
 title = "-strs- version history"
 author = "Paul Dickman, Enzo Coviello"
 summary = "History of -strs-, including links to previous versions."
@@ -12,6 +12,12 @@ caption = ""
 +++
 
 **`strs` can be updated using the `adoupdate` command (from the Stata command line).**
+
+20210311 [Version 1.4.3.1](../1431.zip)
+
+- No changes to the code
+- Added [the GNU General Public License](https://www.gnu.org/licenses/gpl.html)
+- package moved to a new directory on my server (old version will need to be reinstalled rather than updating)
 
 20200515 [Version 1.4.3.0](../1430.zip)
 

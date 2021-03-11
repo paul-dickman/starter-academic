@@ -28,10 +28,13 @@ Sample data sets and do files with worked examples are provided with the package
 The package can be installed by typing the following command at the Stata command prompt:
 
 ```stata
-net install http://www.pauldickman.com/rsmodel/stata_colon/strs, all
+net install https://www.pauldickman.com/strs/strs, all
 ```
-
 The package can be updated using the Stata `adoupdate` command (from the Stata command line).
+
+{{% callout warning %}}
+On 11 March 2021, the `strs` package was moved to a new directory on my server so older versions may need to be reinstalled rather than updated.  
+{{% /callout %}}
 
 ## Details
 

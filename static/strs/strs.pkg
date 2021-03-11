@@ -1,9 +1,9 @@
-v 1.4.3.0
+v 1.4.3.1
 d strs: commands for estimating and modelling relative survival.
 d Paul Dickman and Enzo Coviello
-d Distribution-Date: 20200513
+d Distribution-Date: 20210311
 d
-d See http://pauldickman.com/software/strs/strs/ for details.
+d See http://pauldickman.com/software/strs/ for details.
 d See https://www.stata-journal.com/article.html?article=st0376
 
 f license.txt
