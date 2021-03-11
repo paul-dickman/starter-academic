@@ -1,5 +1,7 @@
 v 3
-d Stata programs by Paul Dickman and Enzo Coviello
-
+d Stata commands by Paul Dickman and Enzo Coviello
+l See http://pauldickman.com/software/strs/ [-strs- on Paul Dickman's web page]
+l See https://www.stata-journal.com/article.html?article=st0376 [-strs- paper in Stata journal]
 p strs Commands for estimating and modelling relative survival
+e
 
