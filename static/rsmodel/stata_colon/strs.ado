@@ -1,8 +1,8 @@
-*! version 1.4.3.0 13May2020
-*! See http://pauldickman.com/software/strs/strs/ for update history and documentation
+*! version 1.4.3.1 11Mar2021
+*! See http://pauldickman.com/software/strs/ for update history and documentation
 *
 /************************************************************************
-   Copyright (C) 2004-2020 Paul Dickman, Enzo Coviello
+   Copyright (C) 2004-2021 Paul Dickman, Enzo Coviello
 
     This file is part of strs. 
      

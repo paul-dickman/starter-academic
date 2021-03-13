@@ -1,6 +1,6 @@
 ---
-title: "Paper IV from Caroline Weibull's doctoral thesis"
-subtitle: "A multistate model incorporating estimation of excess hazards and multiple time scales (2021)"
+title: "A multistate model incorporating estimation of excess hazards and multiple time scales"
+subtitle: "Stat Med. 2021 Feb 8."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
