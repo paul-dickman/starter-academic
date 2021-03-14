@@ -1,5 +1,22 @@
-RewriteEngine On
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.pauldickman.com/$1 [R,L]
-
-AddType text/html .do .sas .r
+AddType text/plain .do .sas .r
+ErrorDocument 404 /404custom.html
+AddDefaultCharset utf-8
+RedirectMatch 301 /teaching/sas/age.php https://pauldickman.com/sastips/age/
+RedirectMatch 301 /teaching/sas/age_dx.php https://pauldickman.com/sastips/age_dx/
+RedirectMatch 301 /teaching/sas/arrays.php https://pauldickman.com/sastips/arrays/
+RedirectMatch 301 /teaching/sas/autocall.php https://pauldickman.com/sastips/autocall/
+RedirectMatch 301 /teaching/sas/autoexec.php https://pauldickman.com/sastips/autoexec/
+RedirectMatch 301 /teaching/sas/char_to_num.php https://pauldickman.com/sastips/char_to_num/
+RedirectMatch 301 /teaching/sas/dates.php https://pauldickman.com/sastips/dates/
+RedirectMatch 301 /teaching/sas/formats.php https://pauldickman.com/sastips/formats/
+RedirectMatch 301 /teaching/sas/format_catalog.php https://pauldickman.com/sastips/format_catalog/
+RedirectMatch 301 /teaching/sas/functions.php https://pauldickman.com/sastips/functions/
+RedirectMatch 301 /teaching/sas/index.php https://pauldickman.com/sastips/
+RedirectMatch 301 /teaching/sas/length.php https://pauldickman.com/sastips/length/
+RedirectMatch 301 /teaching/sas/missing.php https://pauldickman.com/sastips/missing/
+RedirectMatch 301 /teaching/sas/pnr_check.php https://pauldickman.com/sastips/pnr_check/
+RedirectMatch 301 /teaching/sas/print_all_vars.php https://pauldickman.com/sastips/print_all_vars/
+RedirectMatch 301 /teaching/sas/quintiles.php https://pauldickman.com/sastips/quintiles/
+RedirectMatch 301 /teaching/sas/set_by.php https://pauldickman.com/sastips/set_by/
+RedirectMatch 301 /teaching/sas/variable_lists.php https://pauldickman.com/sastips/variable_lists/
+RedirectMatch 301 /teaching/sas/warnings.php https://pauldickman.com/sastips/warnings/
